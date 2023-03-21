@@ -4,6 +4,9 @@ This is a simple React App that calls a hand written API to retrieve patient inf
 
 API: https://github.com/SerenaWitt/rest-api-doctors.git
 
+DEMO: https://clinquant-parfait-da76c8.netlify.app
+
+
 ## Running React App
 In the project directory, you can run:
 
