@@ -14,6 +14,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-You need to run the Rest-API-Doctors simultaneousle to be able to retrieve the patient information.
+You need to run the Rest-API-Doctors simultaneously to be able to retrieve the patient information.
 
 The API endpoints were tested using Postman. 
